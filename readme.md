@@ -15,4 +15,4 @@ Syllabus Covered
 - There are only three options in linear Algebra `one, no or infinite solutions`
 - It is impossible for lines to cross multiple times 
 
-> Notebook Working on : [intro_to_lin_alg.ipynb]()
+> Notebook Working on : [intro_to_lin_alg.ipynb](https://github.com/Jaidip1994/Mathematical-Foundation-Of-Machine-Learning/blob/main/hands_on_notebooks/intro_to_lin_alg.ipynb)
